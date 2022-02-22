@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/fragment.java">
           <value>
             <set />
@@ -14,6 +19,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/elephant-1.0/src/main/java/edu/sumdu/tss/elephant/Server.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/elephant-1.0/src/main/resources/velocity/script/index.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/elephant-1.0/target/classes/i18n/messages_en.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/elephant-1.0/target/classes/velocity/script/index.vm">
           <value>
             <set />
           </value>
